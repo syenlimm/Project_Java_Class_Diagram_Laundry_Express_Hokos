@@ -15,7 +15,7 @@ Daftar Isi
 11. Pengembangan Selanjutnya
 
 Gambaran Umum
-rogram meniru alur kerja kasir laundry (referensi: struk LaundryExpressHokos.id, Tomang, Jakarta Barat). Alur utamanya:
+Program meniru alur kerja kasir laundry (referensi: struk LaundryExpressHokos.id, Tomang, Jakarta Barat). Alur utamanya:
 1. Registrasi Kasir
 2. Login Kasir
 3. Input Customer & Nota
