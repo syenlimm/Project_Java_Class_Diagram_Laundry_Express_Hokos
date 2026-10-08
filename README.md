@@ -1,4 +1,4 @@
-LaundryExpressHokos.id — Sistem Laundry Berbasis OOP Java
+LaundryExpressHokos.id (Sistem Laundry Berbasis OOP Java)
 Aplikasi konsol (console) untuk kasir laundry yang dibuat dengan Java dan menerapkan konsep Pemrograman Berorientasi Objek (PBO). Kasir dapat registrasi, login, menginput data customer, memilih layanan, menghitung total, lalu mencetak struk (popup + file .txt).
 
 Daftar Isi
